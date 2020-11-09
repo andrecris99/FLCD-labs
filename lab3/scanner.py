@@ -1,4 +1,4 @@
-from hashTable import HashTable
+from lab3.hashTable import HashTable
 import re
 import sys
 
